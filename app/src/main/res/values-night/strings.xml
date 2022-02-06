@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="itunesapi">iTunesAPI</string>
+    <string name="search">search</string>
+    <string name="image">ImageMusica</string>
+    <string name="imageaction">ImageAction</string>
+</resources>
